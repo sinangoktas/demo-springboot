@@ -1,0 +1,24 @@
+// Spring Boot Tutorial for Beginners (Java Framework)
+// https://www.youtube.com/watch?v=vtPkZShrvXQ
+
+^^^ db creation, dockerization instruction in the video above
+build image >  run container from jar file
+exec into container, connect to db, find the table
+
+Tasks:
+
+Create a location API with path param {location}
+API chain > .../adults/{location} and .../minors/{location}
+
+
+Item Service
+Item table
+
+Purchase Service
+Purchase Table
+
+Messaging Service
+Message Table
+
+
+
